@@ -1,6 +1,10 @@
-# Aditya Naik
+# 👋 Hi, I'm Aditya
 
-Engineering Student | Developer | Robotics Enthusiast
+🎓 Engineering Student  
+💻 C | C++ | Python | JavaScript  
+🤖 Robotics & Embedded Systems  
+📊 Computational Mathematics  
+🚀 Building projects and learning every day
 
 ## Skills
 
