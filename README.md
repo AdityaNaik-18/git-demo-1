@@ -1,50 +1,68 @@
-# Hello World in Python
+# Python Hello World 👋
 
-A simple beginner-friendly Python program that prints a greeting message to the console.
+A beginner-friendly Python project that prints a simple greeting message to the terminal. This repository is my first step in learning Python and using GitHub to manage code.
 
-## Project Overview
+## 📌 About the Project
 
-This project demonstrates the basic use of Python's `print()` function. When executed, it displays:
+The program uses Python's built-in `print()` function to display a message:
 
 ```text
 Hello World my name is Aditya Naik
 ```
 
-## File Structure
+## 🗂️ Project Structure
 
 ```text
 git-demo-1/
-├── hello.py
-├── .gitignore
-└── README.md
+├── hello.py      # Python greeting program
+├── .gitignore    # Files Git should ignore
+└── README.md     # Project documentation
 ```
 
-## Requirements
+## ⚙️ Requirements
 
-- Python 3 installed on your computer.
+- Python 3
+- A terminal or command prompt
 
-## How to Run
+Check whether Python is installed:
+
+```bash
+python --version
+```
+
+If that command is unavailable, try:
+
+```bash
+python3 --version
+```
+
+## ▶️ Run the Program
 
 1. Clone or download this repository.
-2. Open a terminal in the project folder.
-3. Run the program:
+2. Open a terminal in the project directory.
+3. Execute the script:
 
 ```bash
 python hello.py
 ```
 
-If your system uses `python3`, run:
+On systems that use `python3`, run:
 
 ```bash
 python3 hello.py
 ```
 
-## What I Learned
+## 💡 Concepts Practiced
 
-- Writing and running a basic Python program.
-- Using `print()` to display text.
-- Managing project files with Git and GitHub.
+- Basic Python syntax
+- Displaying output with `print()`
+- Running a Python script from the terminal
+- Organizing and documenting a project with Git and GitHub
 
-## Author
+## 👨‍💻 Author
 
-Aditya Naik
+**Aditya Naik**
+
+---
+
+*More projects and improvements will be added as I continue learning.*
